@@ -1,5 +1,5 @@
 streamlit
-gunicorn 
+gunicorn==20.0.4
 pandas 
 numpy
 requests
