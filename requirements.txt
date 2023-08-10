@@ -3,4 +3,4 @@ guicorn
 pandas 
 numpy
 requests
-
+pickle
