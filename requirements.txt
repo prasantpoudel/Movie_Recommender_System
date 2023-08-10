@@ -1,0 +1,6 @@
+streamlit
+guicorn 
+pandas 
+numpy
+requests
+
